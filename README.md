@@ -12,9 +12,8 @@ Computer Vision과 AutoML에 지대한 관심을 가지고, 팀 프로젝트와 
 - 2024 반려동물 안구질환 이미지 분류 ([▶바로가기](https://github.com/eeuuais/project-animaleye-class))
     - 석사학위 논문
 - 2023 AI기반 헬시 푸드 추천서비스 Pull-Option ([▶바로가기](https://github.com/eeuuais/project-pulloption-recommendation))
-- 2022 자립준비청년 취업매칭 앱 서비스 ([▶바로가기](https://github.com/eeuuais/project-drugabuse-idea))
-    - 아이디어 해커톤 우수상 수상
-- 2022 자동차 가격 예측분석 ([▶바로가기](https://github.com/eeuuais/project-electronic-regression))<br>
+- 2022 자립준비청년 취업매칭 앱 서비스 ([▶바로가기](https://github.com/eeuuais/idea-dongbanjob))
+    - 아이디어 해커톤 우수상 수상<br>
 
 ### 📫Links
 - Email : 090484@naver.com
