@@ -6,7 +6,7 @@
 머신러닝과 딥러닝, 특히 Computer Vision에 지대한 관심을 가지고, 팀 프로젝트와 논문작성을 통해 함께 성장하는 경험을 쌓아왔습니다.<br>
 데이터를 바탕으로 의미있는 스토리텔링을 하고 싶습니다. 함께 얻은 지식을 공유하며 데이터 사이언스와 머신러닝 커뮤니티에 기여하고자 합니다.<br>
 
-[▶ PDF 상세이력서 보기](https://nbviewer.org/github/eeuuais/eeuuais/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%28%EC%86%90%EC%86%8C%EC%97%B0%29.pdf)<br><br>
+[▶ PDF 포트폴리오 보기](https://nbviewer.org/github/eeuuais/eeuuais/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%28%EC%86%90%EC%86%8C%EC%97%B0%29.pdf)<br><br>
 
 ### 🌱Project
 - 2024 반려동물 안구질환 이미지 분류 ([▶바로가기](https://github.com/eeuuais/project-animaleye-class))
