@@ -10,7 +10,7 @@
 
 ### 🏫Eucation 
 - 2024 서강대학교 정보통신대학원 데이터 사이언스·인공지능 석사 졸업
-    - 석사 학위논문 "Vision Transformer를 활용한 반려동물 안구질환 이미지 분류" ([▶바로가기](https://url.kr/kelsyt))
+    - 석사 학위논문 "Vision Transformer를 활용한 반려동물 안구질환 이미지 분류" ([▶바로가기](https://drive.google.com/file/d/1GmYrkvY-kgF74ICVgCTXZvNqreiQ-CnL/view?usp=sharing))
 
 
 ### 🌱Project
