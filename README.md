@@ -6,7 +6,7 @@
 팀 프로젝트와 논문 작성을 통해 쌓은 통계적인 시각과 머신러닝, 딥러닝 모델링 역량을 결합하여 의미있는 스토리텔링을 하고 싶습니다.<br>
 함께 얻은 지식을 공유하며 데이터 사이언스와 머신러닝 커뮤니티에 기여하고자 합니다.<br>
 
-[▶ PDF 포트폴리오 보기](https://nbviewer.org/github/eeuuais/eeuuais/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%28%EC%86%90%EC%86%8C%EC%97%B0%29.pdf)<br><br>
+[▶ PDF 포트폴리오 보기](https://nbviewer.org/github/eeuuais/eeuuais/blob/c2de3d374f56df2b90670c36b94228d5d4ecbd25/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%28%EC%86%90%EC%86%8C%EC%97%B0%29_Updated20250605.pdf)<br><br>
 
 ### 🏫Eucation 
 - 2024 서강대학교 정보통신대학원 AI·SW대학원 석사 졸업
