@@ -9,11 +9,12 @@
 [▶ PDF 포트폴리오 보기](https://nbviewer.org/github/eeuuais/eeuuais/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%28%EC%86%90%EC%86%8C%EC%97%B0%29.pdf)<br><br>
 
 ### 🏫Eucation 
-- 2024 서강대학교 정보통신대학원 데이터 사이언스·인공지능 석사 졸업
+- 2024 서강대학교 정보통신대학원 AI·SW대학원 석사 졸업
     - 석사 학위논문 "Vision Transformer를 활용한 반려동물 안구질환 이미지 분류" ([▶바로가기](https://drive.google.com/file/d/1GmYrkvY-kgF74ICVgCTXZvNqreiQ-CnL/view?usp=sharing))
 
 
 ### 🌱Project
+- 2025 DACON 이미지 분류 해커톤 ([▶바로가기](https://github.com/eeuuais/dacon_fixelicon_classification))
 - 2024 반려동물 안구질환 이미지 분류 ([▶바로가기](https://github.com/eeuuais/project-animaleye-class))
     - 석사학위 논문
 - 2023 AI기반 헬시 푸드 추천서비스 Pull-Option ([▶바로가기](https://github.com/eeuuais/project-pulloption-recommendation))
