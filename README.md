@@ -22,5 +22,5 @@
     - 아이디어 해커톤 우수상 수상<br>
 
 ### 📫Links
-- Email : 090484@naver.com
+- Email : eeuuais@gmail.com
 - study blog : https://pungdaeng.tistory.com
