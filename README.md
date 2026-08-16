@@ -8,9 +8,30 @@
 
 [▶ PDF 포트폴리오 보기](https://nbviewer.org/github/eeuuais/eeuuais/blob/c2de3d374f56df2b90670c36b94228d5d4ecbd25/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%28%EC%86%90%EC%86%8C%EC%97%B0%29_Updated20250605.pdf)<br><br>
 
-### 🏫Eucation 
+### 🛠 Tech Stack
+
+**Language & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**AI / Machine Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-008080?style=flat-square&logo=git&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-1A73E8?style=flat-square&logo=codewars&logoColor=white)
+
+**Serving & Tools**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 🏫Education 
 - 2024 서강대학교 정보통신대학원 AI·SW대학원 석사 졸업
     - 석사 학위논문 "Vision Transformer를 활용한 반려동물 안구질환 이미지 분류" ([▶바로가기](https://drive.google.com/file/d/1GmYrkvY-kgF74ICVgCTXZvNqreiQ-CnL/view?usp=sharing))
+        - Vision Transformer 기반 12종 안구질환 다중분류 및 F1-Score 0.89 달성
 
 
 ### 🌱Project
