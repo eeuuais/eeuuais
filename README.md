@@ -35,11 +35,17 @@
 
 
 ### 🌱Project
-- 2025 DACON 이미지 분류 해커톤 ([▶바로가기](https://github.com/eeuuais/dacon_fixelicon_classification))
-- 2024 반려동물 안구질환 이미지 분류 ([▶바로가기](https://github.com/eeuuais/project-animaleye-class))
-    - 석사학위 논문
+- 2026 호텔 예약 취소 예측 ([▶바로가기](https://github.com/eeuuais/project-hotel-cancellation-prediction))
+    - 데이터 누수 5개 열 제거와 시간 기준 분할로 평가 신뢰성 확보, LightGBM 테스트 ROC-AUC 0.870
+    - 활용 시나리오별 threshold 설계로 확인 연락 시나리오의 예약당 손실 비용 59% 감소
+- 2026 H&M 고객 이탈 예측 ([▶바로가기](https://github.com/eeuuais/project-customer-churn-prediction))
+    - 코호트 리텐션 분석으로 가입 후 2~3개월 차 이탈 급증 구간 발견, LightGBM 이탈 예측 ROC-AUC 0.84
+- 2025 DACON 이미지 분류 해커톤 ([▶바로가기](https://github.com/eeuuais/competition-pixelicon-classification))
+    - DenseNet121 K-Fold 앙상블, Private Score 0.97 (상위 10%)
+- 2024 반려동물 안구질환 이미지 분류 ([▶바로가기](https://github.com/eeuuais/project-animal-eye-classification))
+    - 석사학위 논문, Vision Transformer 전이학습
 - 2023 AI기반 헬시 푸드 추천서비스 Pull-Option ([▶바로가기](https://github.com/eeuuais/project-pulloption-recommendation))
-- 2022 자립준비청년 취업매칭 앱 서비스 ([▶바로가기](https://github.com/eeuuais/idea-dongbanjob))
+- 2022 자립준비청년 취업매칭 앱 서비스 ([▶바로가기](https://github.com/eeuuais/idea-dongbanjob-appservice))
     - 아이디어 해커톤 우수상 수상<br>
 
 ### 📫Links
