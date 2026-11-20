@@ -37,7 +37,7 @@
 ### 🌱Project
 - 2026 호텔 예약 취소 예측 ([▶바로가기](https://github.com/eeuuais/project-hotel-cancellation-prediction))
     - 데이터 누수 5개 열 제거와 시간 기준 분할로 평가 신뢰성 확보, LightGBM 테스트 ROC-AUC 0.870
-    - 활용 시나리오별 threshold 설계로 확인 연락 시나리오의 예약당 손실 비용 59% 감소
+    - 활용 시나리오별 threshold 설계로 확인 연락 시나리오의 예약당 손실 비용 59% 감소 (가정 비용 기준)
 - 2026 H&M 고객 이탈 예측 ([▶바로가기](https://github.com/eeuuais/project-customer-churn-prediction))
     - 코호트 리텐션 분석으로 가입 후 2~3개월 차 이탈 급증 구간 발견, LightGBM 이탈 예측 ROC-AUC 0.84
 - 2025 DACON 이미지 분류 해커톤 ([▶바로가기](https://github.com/eeuuais/competition-pixelicon-classification))
