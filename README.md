@@ -39,7 +39,7 @@
     - 데이터 누수 5개 열 제거와 시간 기준 분할로 평가 신뢰성 확보, LightGBM 테스트 ROC-AUC 0.870
     - 활용 시나리오별 threshold 설계로 확인 연락 시나리오의 예약당 손실 비용 59% 감소 (가정 비용 기준)
 - 2026 H&M 고객 이탈 예측 ([▶바로가기](https://github.com/eeuuais/project-customer-churn-prediction))
-    - 코호트 리텐션 분석으로 가입 후 2~3개월 차 이탈 급증 구간 발견, LightGBM 이탈 예측 ROC-AUC 0.84
+    - 이탈 라벨을 직접 정의하고 피처 3단계/튜닝을 비교, LightGBM ROC-AUC 0.848에서 성능 천장을 확인하고 원인을 데이터 정보량으로 분석
 - 2025 DACON 이미지 분류 해커톤 ([▶바로가기](https://github.com/eeuuais/competition-pixelicon-classification))
     - DenseNet121 K-Fold 앙상블, Private Score 0.97 (상위 10%)
 - 2024 반려동물 안구질환 이미지 분류 ([▶바로가기](https://github.com/eeuuais/project-animal-eye-classification))
